@@ -1,13 +1,23 @@
 # Tech Writers' Tribe - Docs-as-Code Exam
-You will reiterate all the steps taught by your instructor Anindita Basu. Here you will find all the action items you need to complete to be able to pass the exam.
 
-## Topics Taught on Day1
-- Create an Index File.
-- Learn to format MarkDown.
-- Learn to commit changes
-- Learn to fork.
-
-## Topics Taught on Day2
+## Tasks Completed for the Exam
 
 
-## Topics Taught on Day3
+### Created a Project for {{site.school_name}}
+
+- Created a new repo.
+- Created a home page using the index.md file.
+- Created 2 topics
+- Used the following markdown:
+  - _Italics_
+  - **Bold**
+  - [] Checkbox
+  - [x] Selected Checkbox
+  - `code`
+  - ```
+    Code Block
+    ```
+
+### Forked a topic
+
+### Published my own project and here is the link [Bangalore Lalit Kala Kshetra - BLKK]()
