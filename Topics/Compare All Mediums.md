@@ -11,7 +11,7 @@ medium:
 Here all the mediums are listed in alphabetical order.
 
 |Medium|Opaque|Transparent|Dry|Wet|Fixative|
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |Acrylic|[x]|[ ]|[ ]|[x]|[ ]|
 |Charcoal|[x]|[ ]|[x]|[ ]|[x]|
 |Color Pencil|[ ]|[x]|[x]|[ ]|[ ]|
