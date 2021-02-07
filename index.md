@@ -1,5 +1,5 @@
 ---
-layout: template_indexFile
+layout: Exam_Template
 title: BLKK (Bangalore Lalit Kala Kshetra) Home
 ---
 
