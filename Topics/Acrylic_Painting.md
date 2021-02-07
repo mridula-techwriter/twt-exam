@@ -1,6 +1,7 @@
 ---
 title: Acrylic Painting
 medium: Acrylic
+layout: Exam_Template
 ---
 
 # Course on {{page.title}}
