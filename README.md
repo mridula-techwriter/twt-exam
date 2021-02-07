@@ -2,8 +2,10 @@
 You will reiterate all the steps taught by your instructor Anindita Basu. Here you will find all the action items you need to complete to be able to pass the exam.
 
 ## Topics Taught on Day1
-- Create an Index File
-
+- Create an Index File.
+- Learn to format MarkDown.
+- Learn to commit changes
+- Learn to fork.
 
 ## Topics Taught on Day2
 
