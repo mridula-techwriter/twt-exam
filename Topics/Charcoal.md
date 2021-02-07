@@ -29,5 +29,5 @@ You are about to enter the "Sketchy and Shady" world of charcoal. Until now if c
 * Always fix your work with a charcoal fixative.
 
 **What to avoid**
-* Always frame your work using a mat and glass. The glass must not touch your work.
+* Never mount your charcoal master piece as is. Always frame your work using a mat and glass. The glass must not touch your work.
 * Do not sharpen your charcoal pencils. Learn to chisel them instead.
