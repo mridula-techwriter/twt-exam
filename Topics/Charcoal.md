@@ -1,7 +1,7 @@
 ---
+layout: Exam_Template
 title: Charcoal Drawings
 medium: Charcoal
-layout: Exam_Template
 ---
 
 # Course on {{page.title}}
