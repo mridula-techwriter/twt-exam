@@ -1,5 +1,5 @@
 ---
-layout: Exam_Template
+layout: Exam_Template_SubTopics
 title: Charcoal Drawings
 medium: Charcoal
 ---
