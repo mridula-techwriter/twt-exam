@@ -1,6 +1,4 @@
 ---
-title: 
-medium: 
 layout: Exam_Template
 ---
 

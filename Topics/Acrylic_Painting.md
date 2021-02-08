@@ -1,7 +1,7 @@
 ---
+layout: Exam_Template
 title: Acrylic Painting
 medium: Acrylic
-layout: Exam_Template
 ---
 
 # Course on {{page.title}}
