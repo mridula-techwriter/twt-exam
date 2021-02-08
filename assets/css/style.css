@@ -3,7 +3,7 @@ h1, h2, h3, h4, h5, h6 {color:#4e5180;}
 hr { 
   display: block;
   border-width: 1px;
-  border-color: lightblue;
+  border-color: black;
 } 
 
 header {
@@ -12,7 +12,7 @@ header {
 }
 
 footer {
-  font-family: serif;
+  font-family: Arial;
   font-size: 12px;
 }
 
