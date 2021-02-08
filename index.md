@@ -1,6 +1,6 @@
 ---
 layout: Exam_Template
-title: BLKK (Bangalore Lalit Kala Kshetra) Home
+title: Bangalore Lalit Kala Kshetra
 ---
 
 # {{page.title}}
