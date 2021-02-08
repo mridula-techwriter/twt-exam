@@ -10,7 +10,7 @@ Welcome to Bangalore Lalit Kala Kshetra, a school where you can add value to you
 ## Mediums you can explore
 
 Use these topics to learn and understand these mediums in details:
--  [Compare All Mediums](topics/Compare_All_Mediums.md)
--  [Acrylic Painting](topics/Acrylic_Painting.md)
--  [Charcoal](topics/Charcoal.md)
+-  [Compare All Mediums](Topics/Compare_All_Mediums.md)
+-  [Acrylic Painting](Topics/Acrylic_Painting.md)
+-  [Charcoal](Topics/Charcoal.md)
 
