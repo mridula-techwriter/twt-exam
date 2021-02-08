@@ -1,4 +1,4 @@
 <hr/>
 
-<p><b><i>Tech Writers Tribe</i></b>: This an assessment project created by Mridula Menon'<p>
+<p><b>Tech Writers Tribe</b>: This is an assessment project created by Mridula Menon.<p>
 
