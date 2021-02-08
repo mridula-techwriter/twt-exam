@@ -9,7 +9,7 @@ medium: Acrylic
 ***
 ## Materials Required
 * {{page.medium}} brushes
-* Steel or platic plate (for mixing colors)
+* Steel or plastic plate (for mixing colors)
 * Canvas pad / Canvas Board / Mounted Canvas
 
 ## Before You Begin
